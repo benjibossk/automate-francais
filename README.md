@@ -4,8 +4,8 @@
 
 
 
-##Changelog
- 26/03: 
+### Changelog:
+ #### 26/03: 
  - [x]  creation du github
  - [x] choix de la plateforme ESP32
  - [ ] installtion sur pc des outils nécéssaire au dévelopement
