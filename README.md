@@ -1,5 +1,10 @@
 # automate-francais
 ## projet OC
+- require https://github.com/espressif/idf-eclipse-plugin
+
+
+
+###Changelog
  26/03: 
  - [x]  creation du github
  - [x] choix de la plateforme ESP32
