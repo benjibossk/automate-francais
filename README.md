@@ -1,5 +1,5 @@
 # automate-francais
-projet OC
+## projet OC
  26/03: 
  - creation du github
  - choix de la plateforme ESP32
