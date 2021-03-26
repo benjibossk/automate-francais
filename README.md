@@ -10,5 +10,6 @@
  - [x] choix de la plateforme ESP32
  - [ ] installtion sur pc des outils nécéssaire au dévelopement
  - [x] découverte code exemple pour jouer son mp3 depuis SD
+ - [x] ajout de collaborateur 1/2
  
  
