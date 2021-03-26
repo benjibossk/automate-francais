@@ -128,3 +128,24 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY com.espressif.idf.core 1 0 2021-03-26 16:17:47.935
+!MESSAGE Version: v4.2
+
+!ENTRY com.espressif.idf.core 1 0 2021-03-26 16:17:47.952
+!MESSAGE Version: v4.1.1
+
+!ENTRY com.espressif.idf.core 1 0 2021-03-26 16:17:47.967
+!MESSAGE Version: v4.0.2
+
+!ENTRY com.espressif.idf.core 1 0 2021-03-26 16:17:47.983
+!MESSAGE Version: release/v4.2
+
+!ENTRY com.espressif.idf.core 1 0 2021-03-26 16:17:47.996
+!MESSAGE Version: release/v4.1
+
+!ENTRY com.espressif.idf.core 1 0 2021-03-26 16:17:48.010
+!MESSAGE Version: release/v4.0
+
+!ENTRY com.espressif.idf.core 1 0 2021-03-26 16:17:48.024
+!MESSAGE Version: master
